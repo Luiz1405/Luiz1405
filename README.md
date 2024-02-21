@@ -3,7 +3,7 @@
 
 Atualmente no segundo semestre do curso de Engenharia de Software, estou aprimorando minhas habilidades em tecnologias essenciais para o desenvolvimento de software. No back-end, estou focado em aprofundar meus conhecimentos em Java com Spring Boot, Kotlin também no back-end. Em banco de dados, estou trabalhando com PL/SQL, aprimorando minha proficiência na gestão eficiente e segura de dados.
 
-Além disso, estou expandindo meus conhecimentos em ferramentas fundamentais para o desenvolvimento colaborativo, utilizando Git e GitHub para o versionamento de código. Também estou explorando as capacidades de plataformas em nuvem, como Azure e AWS, para ampliar meu entendimento sobre ambientes de produção escaláveis e seguros.
+Além disso, estou expandindo meus conhecimentos em ferramentas fundamentais para o desenvolvimento colaborativo, utilizando Git e GitHub para o versionamento de código. Também estou estudando as capacidades de plataformas em nuvem, como Azure e AWS, para ampliar meu entendimento sobre ambientes de produção escaláveis e seguros.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-augusto-de-souza-kubaszewski-7548261b4/)
 
