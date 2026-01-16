@@ -7,9 +7,7 @@ Além disso, estou utilizando e obtendo conhecimento em Git/GitHub para o versio
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-augusto-de-souza-kubaszewski-7548261b4/)
 
-![Luiz1405 GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz1405&show_icons=true&theme=radical)
-
-## Tecnologias que utilizo no meu dia a dia
+## Stack
 
 <div style="display: inline-block">
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
