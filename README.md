@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Luiz Augusto 🖐️.
 
-Atualmente no 4/5 do curso de Engenharia de Software, estou aprimorando minhas habilidades em tecnologias essenciais para o desenvolvimento de software. No back-end, estou aprofundando meus conhecimentos em Java com Spring Boot. Em banco de dados, estou trabalhando com PL/SQL.
+Estou no 6° semestre de Engenharia de Software pela PUCRS, e atualmente trabalho como Desenvolvedor FullStack, onde estou aprimorando a minha visão do desenvolvimento de software como um todo, trabalhando com diferentes tecnologias, no BackEnd atualmente trabalho com PHP/Laravel, JavaScript/Jquery, Node/Nest.js, no front end estou atuando com React/TypeScript, banco de dados utilizo MySQL e MongoDB, além disso atuo diariamente com metodologias ageis como Scrum/Kanban, git para versionamento de código e Jira para o gerenciamento das tarefas.
 
 Além disso, estou utilizando e obtendo conhecimento em Git/GitHub para o versionamento de código. Também estou estudando as capacidades de plataformas em nuvem, como Azure e AWS.
 
@@ -9,12 +9,24 @@ Além disso, estou utilizando e obtendo conhecimento em Git/GitHub para o versio
 
 ![Luiz1405 GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz1405&show_icons=true&theme=radical)
 
-## Tecnologias que estou aprendendo
+## Tecnologias que utilizo no meu dia a dia
 
-<div style="display: inline_block"><br/>
- <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
- <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
-<img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<div style="display: inline-block">
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img align="center" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  
+  <br/><br/>
+
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  
+  <br/><br/>
+
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
