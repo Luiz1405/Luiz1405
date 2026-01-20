@@ -3,8 +3,6 @@
 
 Estou no 6° semestre de Engenharia de Software pela PUCRS, e atualmente trabalho como Desenvolvedor FullStack, onde estou aprimorando a minha visão do desenvolvimento de software como um todo, trabalhando com diferentes tecnologias, no BackEnd atualmente trabalho com PHP/Laravel, JavaScript/Jquery, Node/Nest.js, no front end estou atuando com React/TypeScript, banco de dados utilizo MySQL e MongoDB, além disso atuo diariamente com metodologias ageis como Scrum/Kanban, git para versionamento de código e Jira para o gerenciamento das tarefas.
 
-Além disso, estou utilizando e obtendo conhecimento em Git/GitHub para o versionamento de código. Também estou estudando as capacidades de plataformas em nuvem, como Azure e AWS.
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-augusto-de-souza-kubaszewski-7548261b4/)
 
 ## Stack
