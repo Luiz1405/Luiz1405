@@ -10,11 +10,11 @@
 
 ### Luiz Augusto
 
-Desenvolvedor FullStack e bacharelando no 6° semestre de Engenharia de Software na PUCRS. Atualmente estagiário na VExpenses, atuando no desenvolvimento de sistemas ponta a ponta, microsserviços, arquiteturas escaláveis e aplicações web e mobile.
+Desenvolvedor FullStack e bacharelando no 6° semestre de Engenharia de Software na PUCRS. Atualmente desenvolvedor fullstack na VExpenses, atuando no desenvolvimento de sistemas do levantamento de requisitos ao deploy, microsserviços e arquiteturas escaláveis.
 
 * **Atuação Atual:** Desenvolvedor FullStack Estagiário na VExpenses
 * **Formação:** Engenharia de Software (PUCRS, Previsão: Dez/2027)
-* **Práticas:** Clean Architecture, MVC, Design Patterns (Strategy, Factory), Testes Automatizados, CI/CD, Scrum e Kanban
+* **Práticas:** Clean Architecture, MVC, Design Patterns, Testes Automatizados, CI/CD, Scrum e Kanban
 * **Idiomas:** Português (Nativo), Inglês (B1)
 
 ---
