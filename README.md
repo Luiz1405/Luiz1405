@@ -63,7 +63,7 @@ Desenvolvedor FullStack e bacharelando no 6° semestre de Engenharia de Software
 
 ### Projetos em Destaque
 
-#### [Sistema de Pizzaria (Microsserviços)](https://github.com/Luiz1405/sistema-pizzaria-microsservico)
+#### [Sistema de Pizzaria (Microsserviços)](https://github.com/Luiz1405/sistema-pizzaria-microsservicos)
 Arquitetura em microsserviços desenvolvida com Java 21 e Spring Cloud (Eureka, Load Balancer, Feign Client). Comunicação assíncrona via RabbitMQ, autenticação JWT centralizada no API Gateway, Clean Architecture, padrões Strategy/Factory e conteinerização total com Docker.
 
 #### [LoveTravel](https://github.com/Luiz1405/love-travel)
