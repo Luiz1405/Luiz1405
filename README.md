@@ -79,10 +79,6 @@ Plataforma desenvolvida com banco de dados híbrido (PostgreSQL + MongoDB), cama
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz1405&layout=donut&theme=dark&bg_color=0d1117&title_color=f7b731&text_color=c9d1d9&border_color=30363d&hide_border=false" height="200" alt="Linguagens mais utilizadas" />
-</div>
-
 ---
 
 ### Contato
